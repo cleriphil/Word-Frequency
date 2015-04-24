@@ -1,0 +1,26 @@
+body {
+  font-family: 'Droid Serif', serif;
+  color: #694489;
+  border: 10px solid #D3D3D3;
+  padding: 5% 5% 5% 5%;
+
+}
+
+.purple {
+  color: #575757;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 70px;
+  text-align: center;
+  }
+
+.result {
+  color: #701027;
+  font-family: 'Signika', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.question {
+  font-family: 'Signika', sans-serif;
+  color: #CF5300;
+}
