@@ -1,8 +1,5 @@
 # Word Frequency
 
-# Author:
-Cleri Philiastides
-
 # Description:
 
 This app shows the frequency of a word in a sentence.
